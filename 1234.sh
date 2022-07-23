@@ -1,4 +1,5 @@
-#! /bin/sh
+   #! /bin/sh
+ech0 "I am yet to do"
 echo  "i am learning devops, devops is fun, Linux is OS which is light,Linux is Linux" > testing.txt
 
 
